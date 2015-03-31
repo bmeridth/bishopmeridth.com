@@ -3,15 +3,21 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
 <head>
-
 <title>Bishop Meridth</title>
-
+<style>                                                                         
+html {                                                                          
+  background: url({{ url_for('static', filename='images/tmnt.png') }}) no-repeat center center fixed;
+  -webkit-background-size: cover;                                               
+  -moz-background-size: cover;                                                  
+  -o-background-size: cover;                                                    
+  background-size: cover;                                                       
+}                                                                               
+</style>                                                                        
 <meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" />
 <meta name="author" content="Bishop Meridth - Bishopmeridth.com" />
 <meta name="keywords" content="Bishop Meridth, San Antonio" />
 <meta name="description" content="The personal webpage of Bishop Meridth" />
 </head>
 <body>
-<img src="{{ url_for('static', filename='images/tmnt.png') }}" /> 
 </body>
 </html>

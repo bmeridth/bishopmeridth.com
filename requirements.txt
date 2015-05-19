@@ -1,7 +1,0 @@
-Flask
-Jinja2
-Werkzeug
-argparse
-distribute
-gunicorn
-wsgiref

@@ -1,0 +1,13 @@
+---
+- name: deploy
+  hosts: webservers
+  tasks:
+    - git:
+        repo: git@github.com:jmeridth/bishopmeridth.com.git
+        dest: /var/www/bishopmeridth.com/html
+        accept_hostkey: yes
+
+    - service:
+        name: nginx
+        state: restarted
+      become: true

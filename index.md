@@ -4,6 +4,8 @@ layout: default
 
 # Vote for me for McAndrew Elementary Student Council 2018
 
+![Small But Mighty](assets/images/smallbutmighty.jpg)
+
 ```
 Hi my name is Bishop Meridth.  My motto is "Small But Mighty"
 

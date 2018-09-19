@@ -7,7 +7,9 @@ layout: default
 ![Small But Mighty](assets/images/smallbutmighty.jpg)
 
 ```
-Hi my name is Bishop Meridth.  My motto is "Small But Mighty"
+Hi my name is Bishop Meridth.
+
+My motto is "Small But Mighty"
 
 Some changes I would make include:
 
@@ -15,7 +17,9 @@ Some changes I would make include:
 - More sports balls
 - Plan drive for new library books
 
-Vote for me and we'll make a suggestion box for you to provide your own input
+Vote for me and we'll make a suggestion
+box for you to provide your own input
 
-Don't settle for less...vote for Bishop, who is the best.
+Don't settle for less...
+vote for Bishop, who is the best.
 ```

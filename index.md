@@ -2,6 +2,18 @@
 layout: default
 ---
 
+# Thank you
+
+Thank you to all of my friends and
+family for your support.  I didn't
+get the votes needed to make it
+onto Student Council but I had a blast
+trying out for it.  I got to work
+on my oral presentation skills and
+build a website.  It was worth it.
+
+Thank you.
+
 # Vote for me for McAndrew Elementary Student Council 2018
 
 ![Small But Mighty](assets/images/smallbutmighty.jpg)
